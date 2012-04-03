@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><fileresource charset="UTF-8" comment="Directory element" designerversion="6" maintenanceversion="3.0" name="dojo/cldr/nls/zh-hant/" publicaccess="false" replicaid="802579CD0056B866" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="1852" sequence="3" unid="0C62C09C39524175802579CD0056F419">
+<created><datetime dst="true">20120326T164945,85+01</datetime></created>
+<modified><datetime dst="true">20120326T165516,52+01</datetime></modified>
+<revised><datetime dst="true">20120326T165516,51+01</datetime></revised>
+<lastaccessed><datetime dst="true">20120326T165516,52+01</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20120326T165010,73+01</datetime></addedtofile></noteinfo>
+<updatedby><name>Anonymous</name><name>CN=Matt White/O=Exhilarate</name></updatedby>
+<revisions><datetime dst="true">20120326T165010,72+01</datetime><datetime dst="true">20120326T165505,74+01</datetime></revisions></fileresource>

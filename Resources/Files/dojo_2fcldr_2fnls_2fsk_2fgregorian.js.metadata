@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><fileresource designerversion="6" maintenanceversion="3.0" mimetype="application/javascript" name="dojo/cldr/nls/sk/gregorian.js" publicaccess="false" replicaid="802579CD0056B866" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="17f6" sequence="3" unid="5CF9D100B69D981A802579CD0056F3FF">
+<created><datetime dst="true">20120326T164945,59+01</datetime></created>
+<modified><datetime dst="true">20120326T165505,37+01</datetime></modified>
+<revised><datetime dst="true">20120326T165505,36+01</datetime></revised>
+<lastaccessed><datetime dst="true">20120326T165505,37+01</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20120326T165009,91+01</datetime></addedtofile></noteinfo>
+<updatedby><name>Anonymous</name><name>CN=Matt White/O=Exhilarate</name></updatedby>
+<revisions><datetime dst="true">20120326T165009,90+01</datetime><datetime dst="true">20120326T165009,92+01</datetime></revisions></fileresource>

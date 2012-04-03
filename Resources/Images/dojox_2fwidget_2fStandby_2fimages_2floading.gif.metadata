@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><imageresource designerversion="6" imagename="loading.gif" maintenanceversion="3.0" name="dojox/widget/Standby/images/loading.gif" publicaccess="false" replicaid="802579CD0056B866" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="6032" sequence="3" unid="CA48FEEE9836B74B802579CD005719CE">
+<created><datetime dst="true">20120326T165122,38+01</datetime></created>
+<modified><datetime dst="true">20120326T165500,57+01</datetime></modified>
+<revised><datetime dst="true">20120326T165500,56+01</datetime></revised>
+<lastaccessed><datetime dst="true">20120326T165500,57+01</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20120326T165305,96+01</datetime></addedtofile></noteinfo>
+<updatedby><name>Anonymous</name><name>CN=Matt White/O=Exhilarate</name></updatedby>
+<revisions><datetime dst="true">20120326T165305,95+01</datetime><datetime dst="true">20120326T165305,97+01</datetime></revisions>
+<wassignedby><name>CN=Matt White/O=Exhilarate</name></wassignedby>
+
+<item name="$FileModDT"><datetime dst="true">20120326T165122,38+01</datetime></item>
+<item name="$MimeType"><text>image/gif</text></item></imageresource>

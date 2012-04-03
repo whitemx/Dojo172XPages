@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE note SYSTEM 'xmlschemas/domino_8_5_3.dtd'>
+<note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='8.5'
+ maintenanceversion='3.0' replicaid='802579CD0056B866'>
+<noteinfo noteid='11a' unid='AE7EA86DCDA70415802579CD0056B86A' sequence='13'>
+<created><datetime dst='true'>20120326T164713,06+01</datetime></created>
+<modified><datetime dst='true'>20120326T170529,95+01</datetime></modified>
+<revised><datetime dst='true'>20120326T170529,94+01</datetime></revised>
+<lastaccessed><datetime dst='true'>20120326T170529,95+01</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20120326T164713,09+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Matt White/O=Exhilarate</name></updatedby>
+<revisions><datetime dst='true'>20120326T164713,12+01</datetime><datetime
+ dst='true'>20120326T164721,54+01</datetime><datetime dst='true'>20120326T170420,41+01</datetime><datetime
+ dst='true'>20120326T170420,44+01</datetime><datetime dst='true'>20120326T170420,46+01</datetime><datetime
+ dst='true'>20120326T170420,48+01</datetime><datetime dst='true'>20120326T170529,86+01</datetime><datetime
+ dst='true'>20120326T170529,88+01</datetime><datetime dst='true'>20120326T170529,90+01</datetime><datetime
+ dst='true'>20120326T170529,92+01</datetime></revisions>
+<item name='IconBitmap' summary='true'>
+<rawitemdata type='6'>
+AiAgAQAA///////wD///gAH//gAAf/wAAD/4AAAf8AAAD+AAAAfgAAAHwAAAA8AAAAPAAAADgAAA
+AYAAAAGAAAABgAAAAYAAAAGAAAABgAAAAYAAAAHAAAADwAAAA8AAAAPgAAAH4AAAB/AAAA/4AAAf
+/AAAP/4AAH//gAH///AP//////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAiIiIiAAAAAAAAAAAAAAI
+jPZmZm/IgAAAAAAAAAAIjGZmZmZmZsiAAAAAAAAAjGZmZmZmZmZmyAAAAAAACMZmZmZmZmZmZmyA
+AAAAAIxmZmZmZmZmZmZmyAAAAAjGZmZmZmZmZmZmZmyAAAAIZmbyL2byL2byL2ZmgAAAjGZmIiJm
+IiJmIiJmZsgAAIZmZiIiZiIiZiIiZmZoAADGZmYiImYiImYiImZmbAAI9mZmIiJmIiJmIiJmZm+A
+CGZmZiIiZiIiZiIiZmZmgAhmZmYiImYiImYiImZmZoAIZmZmIiJmIiJmIiJmZmaACGZvIiIiZiIi
+ZiIiIvZmgAhmYiIiImYiImYiIiImZoAIZm8iIi9m8i9m8iIi9maACPZmZmZmZmZmZmZmZmZvgADG
+ZmbyL2byL2byL2ZmbAAAj2ZmIiJmIiJmIiJmZvgAAIxmZiIiZiIiZiIiZmbIAAAI9mbyL2byL2by
+L2ZvgAAACMZmZmZmZmZmZmZmbIAAAACMZmZmZmZmZmZmZsgAAAAACMZmZmZmZmZmZmyAAAAAAACM
+9mZmZmZmZm/IAAAAAAAACIz2ZmZmZm/IgAAAAAAAAAAIiMZmZmyIgAAAAAAAAAAAAACIiIiIAAAA
+AAAAUEECICABAAD/////+A4DgA==
+</rawitemdata></item>
+<item name='$Daos'><text>0</text></item>
+<item name='$DBTheme'><text>blank.theme</text></item>
+<item name='$TITLE'><text>Dojo 1.7.2
+</text></item>
+<item name='$Flags'><text>J6</text></item>
+<item name='$FlagsNoRefresh'><text/></item></note>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><fileresource charset="UTF-8" designerversion="6" maintenanceversion="3.0" mimetype="application/octet-stream" name="dojox/date/zoneinfo/asia" publicaccess="false" replicaid="802579CD0056B866" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="2822" sequence="4" unid="0E794FF6C7D80813802579CD005703BE">
+<created><datetime dst="true">20120326T165025,90+01</datetime></created>
+<modified><datetime dst="true">20120326T165519,50+01</datetime></modified>
+<revised><datetime dst="true">20120326T165519,49+01</datetime></revised>
+<lastaccessed><datetime dst="true">20120326T165519,50+01</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20120326T165048,74+01</datetime></addedtofile></noteinfo>
+<updatedby><name>Anonymous</name><name>CN=Matt White/O=Exhilarate</name></updatedby>
+<revisions><datetime dst="true">20120326T165048,73+01</datetime><datetime dst="true">20120326T165048,75+01</datetime><datetime dst="true">20120326T165348,76+01</datetime></revisions></fileresource>

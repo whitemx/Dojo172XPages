@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="3.0" replicaid="802579CD0056B866" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="61c2" sequence="17" unid="645B4E5DA5D267BA802579CD0057C3E3">
+<created><datetime dst="true">20120326T165837,79+01</datetime></created>
+<modified><datetime dst="true">20120327T110820,38+01</datetime></modified>
+<revised><datetime dst="true">20120326T170559,70+01</datetime></revised>
+<lastaccessed><datetime dst="true">20120327T110820,38+01</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20120326T165837,80+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Matt White/O=Exhilarate</name></updatedby>
+<revisions><datetime dst="true">20120326T165837,79+01</datetime><datetime dst="true">20120326T165837,81+01</datetime><datetime dst="true">20120326T165839,23+01</datetime><datetime dst="true">20120326T165839,25+01</datetime><datetime dst="true">20120326T165943,51+01</datetime><datetime dst="true">20120326T165944,19+01</datetime><datetime dst="true">20120326T165944,21+01</datetime><datetime dst="true">20120326T165952,93+01</datetime><datetime dst="true">20120326T165953,08+01</datetime><datetime dst="true">20120326T170339,63+01</datetime><datetime dst="true">20120326T170339,77+01</datetime><datetime dst="true">20120326T170505,35+01</datetime><datetime dst="true">20120326T170505,49+01</datetime><datetime dst="true">20120326T170505,51+01</datetime><datetime dst="true">20120326T170559,52+01</datetime><datetime dst="true">20120326T170559,68+01</datetime></revisions>
+<wassignedby><name>CN=Matt White/O=Exhilarate</name></wassignedby>
+<item name="$Flags"><text>gC~4K</text></item>
+<item name="$TITLE"><text>hello.xsp</text></item>
+
+
+
+<item name="$FileNames" sign="true"><text>hello.xsp</text></item>
+<item name="$DesignerVersion"><text>8.5</text></item>
+
+
+
+</note>

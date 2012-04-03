@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE page SYSTEM 'xmlschemas/domino_8_5_3.dtd'>
+<page name='hello.html' xmlns='http://www.lotus.com/dxl' version='8.5' maintenanceversion='3.0'
+ replicaid='802579CD0056B866' treatashtml='true' publicaccess='false' designerversion='8.5.3'
+ renderpassthrough='true'>
+<noteinfo noteid='61b6' unid='05EA7694D36FEAC0802579CD00574D40' sequence='4'>
+<created><datetime dst='true'>20120326T165334,08+01</datetime></created>
+<modified><datetime dst='true'>20120326T170623,93+01</datetime></modified>
+<revised><datetime dst='true'>20120326T165849,54+01</datetime></revised>
+<lastaccessed><datetime dst='true'>20120326T170623,93+01</datetime></lastaccessed>
+<addedtofile><datetime dst='true'>20120326T165527,34+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Matt White/O=Exhilarate</name></updatedby>
+<revisions><datetime dst='true'>20120326T165527,33+01</datetime><datetime
+ dst='true'>20120326T165701,01+01</datetime><datetime dst='true'>20120326T165848,93+01</datetime></revisions>
+<wassignedby><name>CN=Matt White/O=Exhilarate</name></wassignedby>
+<body><richtext>
+<pardef id='1' leftmargin='1in' tabs='L0.5000in L1in L1.5000in L2in L2.5000in L3in L3.5000in L4in'/>
+<par def='1'>&lt;!DOCTYPE html&gt;</par>
+<par def='1'>&lt;html&gt;</par>
+<par def='1'>&lt;head&gt;</par>
+<par def='1'>	&lt;meta charset="utf-8"&gt;</par>
+<par def='1'>	&lt;title&gt;Tutorial: Hello Dojo!&lt;/title&gt;</par>
+<par def='1'>	&lt;link rel="stylesheet" href="<computedtext><code event='value'><formula
+>"/" + @WebDbName</formula></code></computedtext>/demo.css"&gt;</par>
+<par def='1'>	&lt;!-- load Dojo --&gt;</par>
+<par def='1'>	&lt;script src="<computedtext><code event='value'><formula>"/" + @WebDbName</formula></code></computedtext>/dojo/dojo.js"</par>
+<par def='1'>	        data-dojo-config="async: true"&gt;&lt;/script&gt;</par>
+<par def='1'>&lt;/head&gt;</par>
+<par def='1'>&lt;body&gt;</par>
+<par def='1'>	&lt;h1 id="greeting"&gt;Hello&lt;/h1&gt;</par>
+<par def='1'>&lt;/body&gt;</par>
+<par def='1'>&lt;/html&gt;</par></richtext></body>
+<item name='$$ScriptName' summary='false' sign='true'><text>start.html</text></item></page>
+

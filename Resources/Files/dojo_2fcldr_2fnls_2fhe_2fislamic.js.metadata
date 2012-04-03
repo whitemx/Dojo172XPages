@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><fileresource designerversion="6" maintenanceversion="3.0" mimetype="application/javascript" name="dojo/cldr/nls/he/islamic.js" publicaccess="false" replicaid="802579CD0056B866" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="172a" sequence="3" unid="D2678765BA36FCAA802579CD0056F3CC">
+<created><datetime dst="true">20120326T164945,08+01</datetime></created>
+<modified><datetime dst="true">20120326T165504,37+01</datetime></modified>
+<revised><datetime dst="true">20120326T165504,36+01</datetime></revised>
+<lastaccessed><datetime dst="true">20120326T165504,37+01</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20120326T165008,11+01</datetime></addedtofile></noteinfo>
+<updatedby><name>Anonymous</name><name>CN=Matt White/O=Exhilarate</name></updatedby>
+<revisions><datetime dst="true">20120326T165008,10+01</datetime><datetime dst="true">20120326T165008,12+01</datetime></revisions></fileresource>

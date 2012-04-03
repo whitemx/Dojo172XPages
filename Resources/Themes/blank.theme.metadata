@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="3.0" replicaid="802579CD0056B866" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="61ca" sequence="5" unid="EFDC73757E8BD96C802579CD00585E6C">
+<created><datetime dst="true">20120326T170513,40+01</datetime></created>
+<modified><datetime dst="true">20120326T170521,72+01</datetime></modified>
+<revised><datetime dst="true">20120326T170520,75+01</datetime></revised>
+<lastaccessed><datetime dst="true">20120326T170521,72+01</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20120326T170513,41+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Matt White/O=Exhilarate</name></updatedby>
+<revisions><datetime dst="true">20120326T170513,40+01</datetime><datetime dst="true">20120326T170513,42+01</datetime><datetime dst="true">20120326T170520,71+01</datetime><datetime dst="true">20120326T170520,73+01</datetime></revisions>
+<wassignedby><name>CN=Matt White/O=Exhilarate</name></wassignedby>
+<item name="$TITLE"><text>blank.theme</text></item>
+<item name="$Flags"><text>34567Cg~`</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>blank.theme</text></item></note>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><fileresource designerversion="6" maintenanceversion="3.0" mimetype="application/javascript" name="dojo/cldr/nls/th/number.js" publicaccess="false" replicaid="802579CD0056B866" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="182e" sequence="3" unid="0E40A796FD175B50802579CD0056F40D">
+<created><datetime dst="true">20120326T164945,73+01</datetime></created>
+<modified><datetime dst="true">20120326T165505,65+01</datetime></modified>
+<revised><datetime dst="true">20120326T165505,64+01</datetime></revised>
+<lastaccessed><datetime dst="true">20120326T165505,65+01</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20120326T165010,41+01</datetime></addedtofile></noteinfo>
+<updatedby><name>Anonymous</name><name>CN=Matt White/O=Exhilarate</name></updatedby>
+<revisions><datetime dst="true">20120326T165010,40+01</datetime><datetime dst="true">20120326T165010,42+01</datetime></revisions></fileresource>

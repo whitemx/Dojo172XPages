@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xp:view xmlns:xp="http://www.ibm.com/xsp/core"
+	pageTitle="Tutorial: Hello Dojo!">
+
+	<xp:this.resources>
+		<xp:script src="dojo/dojo.js" clientSide="true"></xp:script>
+		<xp:styleSheet href="/demo.css"></xp:styleSheet>
+	</xp:this.resources>
+
+	<h1 id="greeting">Hello</h1>
+
+</xp:view>

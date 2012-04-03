@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="3.0" replicaid="802579CD0056B866" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="61ce" sequence="40" unid="80F6DFBDF4E5CEF1802579CD0058B542">
+<created><datetime dst="true">20120326T170855,70+01</datetime></created>
+<modified><datetime dst="true">20120403T091020,25+01</datetime></modified>
+<revised><datetime dst="true">20120326T174437,66+01</datetime></revised>
+<lastaccessed><datetime dst="true">20120403T091020,25+01</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20120326T170855,71+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Matt White/O=Exhilarate</name></updatedby>
+<revisions><datetime dst="true">20120326T170855,70+01</datetime><datetime dst="true">20120326T170855,72+01</datetime><datetime dst="true">20120326T170856,57+01</datetime><datetime dst="true">20120326T170856,59+01</datetime><datetime dst="true">20120326T171526,76+01</datetime><datetime dst="true">20120326T171533,85+01</datetime><datetime dst="true">20120326T171541,07+01</datetime><datetime dst="true">20120326T171553,85+01</datetime><datetime dst="true">20120326T171554,10+01</datetime><datetime dst="true">20120326T171554,12+01</datetime><datetime dst="true">20120326T172228,26+01</datetime><datetime dst="true">20120326T172228,46+01</datetime><datetime dst="true">20120326T172332,84+01</datetime><datetime dst="true">20120326T172947,10+01</datetime><datetime dst="true">20120326T172947,33+01</datetime><datetime dst="true">20120326T173031,21+01</datetime><datetime dst="true">20120326T173031,41+01</datetime><datetime dst="true">20120326T173320,60+01</datetime><datetime dst="true">20120326T173320,82+01</datetime><datetime dst="true">20120326T173320,84+01</datetime><datetime dst="true">20120326T173414,20+01</datetime><datetime dst="true">20120326T173414,42+01</datetime><datetime dst="true">20120326T173414,44+01</datetime><datetime dst="true">20120326T173644,76+01</datetime><datetime dst="true">20120326T173644,96+01</datetime><datetime dst="true">20120326T173644,99+01</datetime><datetime dst="true">20120326T173853,02+01</datetime><datetime dst="true">20120326T173853,25+01</datetime><datetime dst="true">20120326T173853,28+01</datetime><datetime dst="true">20120326T173955,83+01</datetime><datetime dst="true">20120326T173956,03+01</datetime><datetime dst="true">20120326T174309,31+01</datetime><datetime dst="true">20120326T174309,51+01</datetime><datetime dst="true">20120326T174309,54+01</datetime><datetime dst="true">20120326T174324,44+01</datetime><datetime dst="true">20120326T174324,66+01</datetime><datetime dst="true">20120326T174430,14+01</datetime><datetime dst="true">20120326T174430,35+01</datetime><datetime dst="true">20120326T174437,44+01</datetime></revisions>
+<wassignedby><name>CN=Matt White/O=Exhilarate</name></wassignedby>
+<item name="$Flags"><text>gC~4K</text></item>
+<item name="$TITLE"><text>iPadSettings.xsp</text></item>
+
+
+
+
+
+<item name="$FileNames" sign="true"><text>iPadSettings.xsp</text></item>
+<item name="$DesignerVersion"><text>8.5</text></item>
+
+
+</note>

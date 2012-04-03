@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><imageresource designerversion="6" imagename="gridcontainer_grip.gif" maintenanceversion="3.0" name="dojox/layout/resources/icons/gridcontainer_grip.gif" publicaccess="false" replicaid="802579CD0056B866" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="4b3a" sequence="3" unid="99067AC9D62C16BA802579CD005711B8">
+<created><datetime dst="true">20120326T165101,68+01</datetime></created>
+<modified><datetime dst="true">20120326T165433,69+01</datetime></modified>
+<revised><datetime dst="true">20120326T165433,68+01</datetime></revised>
+<lastaccessed><datetime dst="true">20120326T165433,69+01</datetime></lastaccessed>
+<addedtofile><datetime dst="true">20120326T165214,36+01</datetime></addedtofile></noteinfo>
+<updatedby><name>Anonymous</name><name>CN=Matt White/O=Exhilarate</name></updatedby>
+<revisions><datetime dst="true">20120326T165214,35+01</datetime><datetime dst="true">20120326T165214,37+01</datetime></revisions>
+<wassignedby><name>CN=Matt White/O=Exhilarate</name></wassignedby>
+
+<item name="$FileModDT"><datetime dst="true">20120326T165101,69+01</datetime></item>
+<item name="$MimeType"><text>image/gif</text></item></imageresource>
